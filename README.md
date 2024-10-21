@@ -1,7 +1,7 @@
 # Data-of-simulation-study
 This folder contains RStudio files used to simulate and analyze data used in the study that was described by the manuscript "Performance Comparison of Unanchored Matching-Adjusted Indirect Comparison and Naïve Indirect Comparison for Estimating Relative Treatment Effect: A Simulation Study". This word document serves as a "read me" file.
 
-Author's Statement: The code for this study has been modified based on the work of Hatswell et al., and specific technical details and annotations can be referred to at: Link to the research paper (https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1511),and Link to the GitHub repository (https://github.com/remiroazocar/population_adjustment_simstudy).
+Author's Statement: The code for this study has been modified based on the work of Antonio Remiro-Azócar et al., and specific technical details and annotations can be referred to at: Link to the research paper (https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1511),and Link to the GitHub repository (https://github.com/remiroazocar/population_adjustment_simstudy).
 
 This code is encoded using UTF-8 and is divided into 5 main sections. 
 The "**setting**" part is used to configure basic parameters for the simulation study. Depending on different simulated relative efficacies, it's separated into three files. The only distinction is in the 22nd line where "b_trt" is set to log(1), log(0.6), and log(0.3) respectively.
