@@ -1,6 +1,6 @@
 
 ## II.Data generation
-####Author's Statement: The code for this study has been modified based on the work of Hatswell et al., 
+####Author's Statement: The code for this study has been modified based on the work of Antonio Remiro-Azócar et al., 
 ####and specific technical details and annotations can be referred to at: Link to the research paper 
 ####(https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1511),and Link to the GitHub repository
 ####(https://github.com/remiroazocar/population_adjustment_simstudy).
